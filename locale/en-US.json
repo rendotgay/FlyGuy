@@ -1,0 +1,16 @@
+{
+    "invite": "invite",
+    "invite_description": "Invite a user to a countdown!",
+    "invite_user": "The user you are inviting for the countdown",
+    "invite_style": "The type of countdown",
+    "invite_speed": "The speed of the countdown",
+    "invite_reversed": "Count up instead",
+    "invite_quiet": "Send fewer pings",
+    "invite_christmas_title": "{sender} sent {recipient} a gift!",
+    "invite_halloween_title": "{sender} knocks on {recipient}'s door!",
+    "invite_title": "{sender} invited {recipient} to count!",
+    "invite_targetless_title": "{sender} wants a count!",
+    "invite_weed_description": "{sender} is a {rank}",
+    "invite_christmas_description": "This is the {count} gift that {sender} has given to {recipient}",
+    "accepted_christmas_description": "{sender} got {recipient} "
+}
